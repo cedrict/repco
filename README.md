@@ -1,8 +1,11 @@
-# repco
+ repco
 
 Version 0.1.0
 
-some piece of code that does something we will see what it is 
+This is a version of fieldstone which reads in a few mesh files in data/raw 
+and generates a vtu file (to be opened with paraview  https://www.paraview.org/ )
+To run it, go to src/ and do 
+> python3 fieldstone
 
 
 ## Project organization
