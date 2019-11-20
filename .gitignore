@@ -99,7 +99,7 @@ target/
 /data/processed
 /data/raw
 
-.vtu
-.dat
-.ascii
+*.vtu
+*.dat
+*.ascii
 
